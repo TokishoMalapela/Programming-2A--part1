@@ -1,7 +1,7 @@
 // Importing the System namespace for using Console class
 using System;
 
-// Declaring a class named Recipe
+// Declaring a class  Recipe
 class Recipe
 {
     // Private variables to hold ingredients and steps of the recipe
